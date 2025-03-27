@@ -1,0 +1,16 @@
+Requirements
+Microsoft Flight Simulator (Version 2020 & Version 2024)
+
+OS: Windows 10 / 11
+
+Processor: Intel i5-4460 | AMD Ryzen 3 1200 or better
+
+Graphics: NVIDIA GTX 770 | AMD Radeon RX 570 or better
+
+DirectX: DirectX 11
+
+VRAM: 2 GB
+
+RAM: 8 GB
+
+Free hard disk space: 6.7 GB

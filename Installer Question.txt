@@ -2,10 +2,7 @@ I wonder if you can help me with a question.
 
 What programme or software do you use to make an installer program for MSFS?
 
-
-> This PC > New Volume (D:) › Users ›[USERNAME]› packages › Community
-
-
+This PC > New Volume (D:) › ms2020packages › Community
 
 
 

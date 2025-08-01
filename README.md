@@ -9,3 +9,10 @@ https://docs.flightsimulator.com/html/Asset_Creation/Blender_Plugin/The_Blender_
 
 
 https://www.blender.org/
+
+
+
+https://youtu.be/4NGrsoXc0hQ?si=SIMEZhP4K9O2uVyg
+
+
+https://youtu.be/1sTlHL12OPM?si=PUYqdhULv05QX0E1
